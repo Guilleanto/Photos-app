@@ -21,14 +21,12 @@ Connect your hardware device via USB.
 For Android Device
 ```
 $ react-native run-android 
-
 ```
 
 For IOS Device
 
 ```
 $ react-native run-ios 
-
 ```
 ## Debugging the app
 
